@@ -22,10 +22,10 @@ const home = () => {
 
       {/* navbar */}
       <div className="flex sm:justify-start sm:pl-8 justify-center items-center gap-8 absolute top-8 left-0 w-full">
-        <a href='#'>
+        <a href='https://x.com/memezoosol'>
           <img src='/Socials/twitter.png' className='w-12'/>
         </a>
-        <a href='#'>
+        <a href='https://t.me/memezoosolportal'>
           <img src='/Socials/telegram.png' className='w-12'/>
         </a>
         <a href='#'>
